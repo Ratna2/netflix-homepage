@@ -1,8 +1,4 @@
-# Netflix Homepage Replica
-
-<p align="center">
-  <img src="project_screenshot.png" alt="Project Screenshot">
-</p>
+# Netflix Homepage
 
 ## Description
 
@@ -21,15 +17,7 @@ Welcome to my Netflix Homepage Replica project! This repository contains my impl
 ## Technologies Used
 
 - HTML5
-- CSS3 (including Flexbox and Grid)
-- JavaScript
-
-## Screenshots
-
-<p align="center">
-  <img src="screenshot1.png" alt="Screenshot 1">
-  <img src="screenshot2.png" alt="Screenshot 2">
-</p>
+- CSS3
 
 ## Usage
 
@@ -41,4 +29,4 @@ I'd like to express my gratitude to [Netflix](https://www.netflix.com/) for thei
 
 ## Contact
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yourname/) if you have any questions or would like to discuss this project further.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/deep2/) if you have any questions or would like to discuss this project further.
