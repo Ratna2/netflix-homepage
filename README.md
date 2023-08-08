@@ -18,6 +18,7 @@ Welcome to my Netflix Homepage Replica project! This repository contains my impl
 
 - HTML5
 - CSS3
+- js
 
 ## Usage
 
